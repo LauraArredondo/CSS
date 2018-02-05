@@ -1,0 +1,27 @@
+.container {
+  display: block;
+}
+
+.menu {
+  background-color: gray;
+  float: left;
+  width: 200px;
+  height:500px;
+}
+
+.menu ul{
+  list-style: none;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 50px;
+  display: grid;
+}
+
+.content {
+  float: right;
+  width: 800px;
+  height: 500px;
+}
